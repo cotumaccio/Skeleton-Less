@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Skeleton-Less](http://getskeleton.com)
 Skeleton is a simple, responsive boilerplate to kickstart any responsive project.
 
@@ -66,3 +67,6 @@ Skeleton was built using [Sublime Text 3](http://www.sublimetext.com/3) and desi
 ## Acknowledgement
 
 Skeleton was created by [Dave Gamache](https://twitter.com/dhg) for a better web.
+=======
+# Skeleton-Less
+>>>>>>> FETCH_HEAD
